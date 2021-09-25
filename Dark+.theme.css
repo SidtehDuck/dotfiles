@@ -1,0 +1,61 @@
+/**
+  * @name Dark+
+  * @author DevEvil#8745
+  * @version Dark+1
+  * @description Highly customized dark and purple theme for Discord
+  * @authorId 468132563714703390
+  * @authorLink https://devevil.xyz
+  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+  * @website https://devevil.xyz
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #d85353;
+  --darkplus-links: #d85353;
+  --darkplus-home-icon: url(https://media.discordapp.net/attachments/830152146132402246/890939154387566633/psyduck1.png)
+}
+
+.cozyMessage-3V1Y8y .contents-2mQqc9 > .markup-2BOw-j:not(:empty) {
+  background-color: var(--darkplus-bg);
+  display: inline-block;
+  max-width: 650px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0;
+  padding: 6px;
+}
+
+.username-1A8OIy{
+  font-weight: 1000;
+}
+.container-3baos1 {
+  height: 85px;
+}
+.container-3baos1 .avatarWrapper-2yR4wp {
+  position: relative;
+  bottom: 0px;
+}
+.container-3baos1 .nameTag-3uD-yy {
+  position: relative;
+  bottom: 0px;
+  left: 5px;
+}
+.container-3baos1 > .noWrap-3jynv6 {
+  width: 224px;
+  bottom: 0px;
+  position: relative;
+}
+.container-3baos1 > .noWrap-3jynv6 button {
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.expandedFolderBackground-1cujaW {
+  background-color: var(--darkplus-bg);
+}
